@@ -1,0 +1,164 @@
+2023-01-20 16>31:45:3145 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 16>32:37:3237 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 16>32:37:3237 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 16>32:56:3256 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 16>32:56:3256 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 16>33:34:3334 - [31merror[39m : [31mInvalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"[39m
+2023-01-20 16>33:34:3334 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 16>33:51:3351 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 16>33:51:3351 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 16>34:20:3420 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 16>34:20:3420 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 16>42:28:4228 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 16>42:28:4228 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 16>42:50:4250 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 16>42:50:4250 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 16>42:57:4257 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 16>42:57:4257 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 16>43:53:4353 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 16>43:53:4353 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 16>44:03:443 - [35mhttp[39m : [35mGET /api/test 200 12 - 2.214 ms[39m
+[35m[39m
+2023-01-20 16>54:10:5410 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 16>54:10:5410 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 16>55:41:5541 - [35mhttp[39m : [35mPOST /api/movie 200 22 - 1.992 ms[39m
+[35m[39m
+2023-01-20 16>57:35:5735 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 16>57:35:5735 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 16>58:15:5815 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 16>58:15:5815 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 17>59:04:594 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 17>59:04:594 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 18>03:23:323 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 18>03:23:323 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 18>04:34:434 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 18>04:34:434 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 18>05:30:530 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 18>05:30:530 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 18>06:45:645 - [35mhttp[39m : [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2023-01-20 18>07:50:750 - [35mhttp[39m : [35mPOST /api/movie 422 114 - 4.724 ms[39m
+[35m[39m
+2023-01-20 18>08:00:80 - [31merror[39m : [31mCould not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2023-01-20 18>08:34:834 - [35mhttp[39m : [35mPOST /api/movie 422 153 - 4.475 ms[39m
+[35m[39m
+2023-01-20 18>08:50:850 - [35mhttp[39m : [35mPOST /api/movie 422 56 - 1.287 ms[39m
+[35m[39m
+2023-01-20 18>08:53:853 - [31merror[39m : [31mCould not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2023-01-20 18>09:32:932 - [35mhttp[39m : [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2023-01-20 18>09:39:939 - [31merror[39m : [31mErro: MongooseError: Operation `movies.insertOne()` buffering timed out after 10000ms[39m
+2023-01-20 18>10:33:1033 - [31merror[39m : [31mCould not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2023-01-20 18>19:17:1917 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 18>19:17:1917 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 18>21:22:2122 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 18>21:22:2122 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 18>21:41:2141 - [35mhttp[39m : [35mPOST /api/movie 422 57 - 5.286 ms[39m
+[35m[39m
+2023-01-20 18>23:02:232 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 18>23:02:232 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 18>23:08:238 - [35mhttp[39m : [35mPOST /api/movie 422 61 - 5.064 ms[39m
+[35m[39m
+2023-01-20 18>24:30:2430 - [35mhttp[39m : [35mPOST /api/movie 201 203 - 41.112 ms[39m
+[35m[39m
+2023-01-20 18>34:31:3431 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 18>34:31:3431 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 18>35:27:3527 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 18>35:27:3527 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 18>35:59:3559 - [35mhttp[39m : [35mPOST /api/movie 422 103 - 5.585 ms[39m
+[35m[39m
+2023-01-20 18>36:59:3659 - [35mhttp[39m : [35mPOST /api/movie 201 262 - 65.160 ms[39m
+[35m[39m
+2023-01-20 18>40:55:4055 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 18>40:55:4055 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 18>41:24:4124 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 18>41:24:4124 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 18>43:19:4319 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 18>43:19:4319 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 18>43:46:4346 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 18>43:46:4346 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 18>44:48:4448 - [35mhttp[39m : [35mGET /api/movie/43e875u9384759 404 163 - 2.078 ms[39m
+[35m[39m
+2023-01-20 18>45:19:4519 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 18>45:19:4519 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 18>45:21:4521 - [31merror[39m : [31mErro: CastError: Cast to ObjectId failed for value "43e875u9384759" (type string) at path "_id" for model "Movie"[39m
+2023-01-20 18>45:25:4525 - [35mhttp[39m : [35mGET /api/movie/43e875u9384759 - - - - ms[39m
+[35m[39m
+2023-01-20 18>45:42:4542 - [31merror[39m : [31mErro: CastError: Cast to ObjectId failed for value "çofjslidarhfjj394uj" (type string) at path "_id" for model "Movie"[39m
+2023-01-20 18>45:45:4545 - [35mhttp[39m : [35mGET /api/movie/%C3%A7ofjslidarhfjj394uj - - - - ms[39m
+[35m[39m
+2023-01-20 18>46:50:4650 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 18>46:50:4650 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 18>46:53:4653 - [35mhttp[39m : [35mGET /api/movie/63cb068ecc07ea29e2c06e32 404 32 - 29.049 ms[39m
+[35m[39m
+2023-01-20 18>46:58:4658 - [31merror[39m : [31mErro: CastError: Cast to ObjectId failed for value "oçlujr904weu 98jhgiold" (type string) at path "_id" for model "Movie"[39m
+2023-01-20 18>47:02:472 - [35mhttp[39m : [35mGET /api/movie/o%C3%A7lujr904weu%2098jhgiold - - - - ms[39m
+[35m[39m
+2023-01-20 18>47:26:4726 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 18>47:26:4726 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 18>47:32:4732 - [35mhttp[39m : [35mGET /api/movie/63cb068ecc07ea29e2c06e33 200 203 - 31.416 ms[39m
+[35m[39m
+2023-01-20 18>48:34:4834 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 18>48:34:4834 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 18>49:16:4916 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 18>49:16:4916 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 18>49:48:4948 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 18>49:48:4948 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 18>50:13:5013 - [35mhttp[39m : [35mGET /api/movie 200 468 - 59.970 ms[39m
+[35m[39m
+2023-01-20 18>51:24:5124 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 18>51:24:5124 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 18>52:11:5211 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 18>52:11:5211 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 18>52:52:5252 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 18>52:52:5252 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 18>53:03:533 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 18>53:03:533 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 18>54:05:545 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 18>54:05:545 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 18>54:51:5451 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 18>54:51:5451 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 18>55:27:5527 - [35mhttp[39m : [35mDELETE /api/movie/63cb068ecc07ea29e2c06e38 404 32 - 27.974 ms[39m
+[35m[39m
+2023-01-20 18>55:44:5544 - [35mhttp[39m : [35mPOST /api/movie 201 259 - 76.325 ms[39m
+[35m[39m
+2023-01-20 18>55:48:5548 - [35mhttp[39m : [35mGET /api/movie 200 728 - 27.910 ms[39m
+[35m[39m
+2023-01-20 18>56:07:567 - [35mhttp[39m : [35mGET /api/movie 200 728 - 21.804 ms[39m
+[35m[39m
+2023-01-20 18>57:13:5713 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 18>57:13:5713 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 18>57:18:5718 - [35mhttp[39m : [35mGET /api/movie 200 728 - 31.739 ms[39m
+[35m[39m
+2023-01-20 18>57:22:5722 - [35mhttp[39m : [35mDELETE /api/movie/63cb0de0af779eaa710b87bd 200 37 - 61.598 ms[39m
+[35m[39m
+2023-01-20 18>57:25:5725 - [35mhttp[39m : [35mGET /api/movie 200 468 - 25.077 ms[39m
+[35m[39m
+2023-01-20 20>21:15:2115 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 20>21:15:2115 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 20>21:30:2130 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 20>21:30:2130 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 20>21:57:2157 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 20>21:57:2157 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 20>23:47:2347 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 20>23:47:2347 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 20>24:16:2416 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 20>24:16:2416 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 20>24:18:2418 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 20>24:18:2418 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 20>24:46:2446 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 20>24:46:2446 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 20>25:07:257 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 20>25:07:257 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 20>25:19:2519 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 20>25:19:2519 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 20>25:27:2527 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 20>25:27:2527 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 20>25:55:2555 - [35mhttp[39m : [35mGET /api/movie 200 468 - 42.633 ms[39m
+[35m[39m
+2023-01-20 20>26:08:268 - [35mhttp[39m : [35mPATCH /api/movie/63cb097bf239c0b42fc62ef1 200 129 - 61.177 ms[39m
+[35m[39m
+2023-01-20 20>26:12:2612 - [35mhttp[39m : [35mGET /api/movie 200 465 - 25.812 ms[39m
+[35m[39m
+2023-01-20 20>26:48:2648 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2023-01-20 20>26:48:2648 - [32minfo[39m : [32mApp rodando na porta 3000[39m
